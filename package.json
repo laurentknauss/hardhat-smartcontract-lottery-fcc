@@ -1,7 +1,7 @@
 {
   "name": "hardhat-smartcontract-lottery-fcc",
   "version": "1.0.0",
-  "description": "",
+  "description": "example",
   "scripts": {
     "test": "yarn hardhat test",
     "test-staging": "yarn hardhat test --network rinkeby",
